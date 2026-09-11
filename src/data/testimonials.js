@@ -1,0 +1,7 @@
+export const testimonials = [
+  { id: 1, name: 'Local guest', role: 'Downtown Winchester', rating: 5, text: 'The neon + lantern room already feels like a Tokyo hideout. A real site for hours would help before we drive in.', avatar: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Guest' },
+  { id: 2, name: 'Ramen fan', role: 'Valley visitor', rating: 5, text: 'Love that they are doing classic bowls and wild ones like Nashville hot chicken. Want a clear menu page.', avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Guest' },
+  { id: 3, name: 'Date-night duo', role: 'Regulars-to-be', rating: 5, text: '42 seats + patio sounds perfect. Instagram buzz is great — an owned homepage seals it.', avatar: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Guest' },
+  { id: 4, name: 'Food wanderer', role: 'NoVA day trip', rating: 5, text: 'Origami cranes and J-pop playlist sold me. Please put opening hours somewhere easy to find.', avatar: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Guest' },
+  { id: 5, name: 'Broth hunter', role: 'Ramen regular', rating: 5, text: 'East-meets-West without losing the soul of the bowl. This demo feels like their brand.', avatar: 'https://images.unsplash.com/photo-1487412720507-e7ab130641c0?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Guest' },
+]
